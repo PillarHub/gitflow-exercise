@@ -1,0 +1,6 @@
+[project]
+name = "pillar-gitflow-exercise"
+slug = "pillar-gitflow-exercise"
+
+[amem]
+server = "https://amem.flusci.org"
